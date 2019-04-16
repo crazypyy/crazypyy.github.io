@@ -17,3 +17,5 @@ print(“”)
 1. ok
 2. ok
 3. ok
+
+![small](assets/avatar.gif)
