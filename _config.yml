@@ -6,9 +6,15 @@
 # Site
 title: NexT
 subtitle:
+<<<<<<< HEAD
 description: 与其感慨路难行，不如马上出发。
 repository: crazypyy/crazypyy.github.io
 author: 风小行
+=======
+description:
+author: John Doe
+repository: crazypyy/crazypyy.github.io
+>>>>>>> 69173fc35354ff448101f9d3f37a9e31cee97ae9
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: zh-Hans
 date_format: '%Y-%m-%d'
