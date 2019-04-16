@@ -6,10 +6,11 @@
 # Site
 title: NexT
 subtitle:
-description:
-author: John Doe
+description: 与其感慨路难行，不如马上出发。
+repository: crazypyy/crazypyy.github.io
+author: 风小行
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
-language: en
+language: zh-Hans
 date_format: '%Y-%m-%d'
 
 # URL
@@ -151,9 +152,9 @@ menu_icons:
 # ---------------------------------------------------------------
 
 # Schemes
-scheme: Muse
+#scheme: Muse
 #scheme: Mist
-#scheme: Pisces
+scheme: Pisces
 
 
 # ---------------------------------------------------------------
